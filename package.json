@@ -1,6 +1,6 @@
 {
     "name": "@jadsonlucena/mimetypes",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "This is a comprehensive compilation of mime types that is periodically updated through the following projects: Apache, NGINX, IANA and Debian",
     "main": "./src/MymeTypes.js",
     "engines": {
